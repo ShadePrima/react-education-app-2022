@@ -11,8 +11,6 @@ function App() {
     <Clock />
     </div>
 
-
-
   //   // <p>Hello word</p>,
   //   // <Comment
   //   //   date={comment.date}
